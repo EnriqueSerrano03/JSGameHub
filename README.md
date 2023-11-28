@@ -8,9 +8,10 @@ JSGameHub es un repositorio que alberga una colección de juegos interactivos de
 
 ## Juegos Disponibles
 
-- **Juego 1**: [Enlace al Juego 1]
-- **Juego 2**: [Enlace al Juego 2]
-- **Juego 3**: [Enlace al Juego 3]
+- **Mbros**: https://enriqueserrano03.github.io/JSGameHub/MarioBros/index.html
+- **Flappyshrek**: https://enriqueserrano03.github.io/JSGameHub/FlappyBird/game.html
+- **Minee**: [Enlace al Juego 3]
+- **ttris**: [Enlace al Juego 3]
 
 ## Cómo Empezar
 
